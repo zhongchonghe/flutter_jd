@@ -1,6 +1,6 @@
 # flutter_jd
 
-jsShop
+京东商城
 
 ## Getting Started
 
